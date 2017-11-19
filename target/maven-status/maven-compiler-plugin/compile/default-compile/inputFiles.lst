@@ -1,0 +1,17 @@
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/configuration/ArticlesAppConfig.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/persistence/GenericDAO.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/persistence/articleType/ArticleTypeDAO.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/persistence/article/ArticleDAO.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/persistence/articleType/ArticleTypeDAOHibernateImpl.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/service/article/ArticleServiceImpl.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/service/GenericServiceImpl.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/persistence/article/ArticleDAOHibernateImpl.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/service/articleType/ArticleTypeService.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/service/article/ArticleService.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/domain/Article.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/service/articleType/ArticleTypeServiceImpl.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/controller/ArticleController.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/ArticlesApplication.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/domain/ArticleType.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/service/GenericService.java
+/Users/bezgerts/Desktop/javaProjects/Art/articles/src/main/java/me/mars/articles/persistence/GenericDAOHibernateImpl.java

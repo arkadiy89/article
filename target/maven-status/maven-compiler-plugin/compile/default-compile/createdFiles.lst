@@ -1,0 +1,16 @@
+me/mars/articles/service/article/ArticleService.class
+me/mars/articles/configuration/ArticlesAppConfig.class
+me/mars/articles/service/articleType/ArticleTypeServiceImpl.class
+me/mars/articles/persistence/article/ArticleDAOHibernateImpl.class
+me/mars/articles/persistence/articleType/ArticleTypeDAO.class
+me/mars/articles/controller/ArticleController.class
+me/mars/articles/service/articleType/ArticleTypeService.class
+me/mars/articles/service/article/ArticleServiceImpl.class
+me/mars/articles/domain/Article.class
+me/mars/articles/persistence/article/ArticleDAO.class
+me/mars/articles/domain/ArticleType.class
+me/mars/articles/service/GenericServiceImpl.class
+me/mars/articles/service/GenericService.class
+me/mars/articles/persistence/articleType/ArticleTypeDAOHibernateImpl.class
+me/mars/articles/persistence/GenericDAOHibernateImpl.class
+me/mars/articles/persistence/GenericDAO.class
